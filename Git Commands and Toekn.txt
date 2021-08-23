@@ -1,0 +1,9 @@
+sudo docker run -dit --name luism-web -p 8091:80 -v /home/luism/Desarrollo-Aplicaciones-WEB/13-08-21 - Hola Mundo JS:/usr/local/apache2/htdocs/ -d httpd
+
+Git tb:
+- git add --all
+- git commit -m "Comments"
+- git push -u origin master
+Token:
+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
+
